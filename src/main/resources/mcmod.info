@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AutoFriend",
+  "name": "Auto Friend",
+  "description": "Auto friend accept mod for the Hypixel Network. Type /autofriend ingame for options.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://2pi.pw/autofriend",
+  "updateUrl": "",
+  "authorList": ["2Pi"],
+  "credits": "2Pi",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
